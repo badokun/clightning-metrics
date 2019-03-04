@@ -10,6 +10,12 @@ Setting up a Grafana dashboard [click here](docs/lightning-dashboard.md)
 
 > Reference: [Prometheus plugin for c-lightning](https://github.com/lightningd/plugins/tree/master/prometheus)
 
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
 ====================== REVIEW THIS ====================== 
 
 
